@@ -174,7 +174,7 @@ Interested in:
 
 ## Live Demo
 
-Add your deployed application URL here.
+https://dawatrestaurantlahore.netlify.app/
 
 ---
 
