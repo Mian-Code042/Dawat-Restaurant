@@ -1,2 +1,20 @@
-# Dawat-Restaurant
-Dawat is a modern full-stack food delivery web application designed to provide a seamless online food ordering experience. The platform allows customers to browse menus, add items to their cart, place orders, track deliveries, and manage their accounts through an intuitive and responsive interface.
+<div alig="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/ce159f47-9b04-4a56-a64c-2a5f41f430e6
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

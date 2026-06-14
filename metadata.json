@@ -1,0 +1,6 @@
+{
+  "name": "Dawat - Pakistani Food Chain",
+  "description": "Dawat is a premium full-stack food delivery web application for an authentic Pakistani restaurant chain, featuring online ordering, dynamic search, a complete menu, order tracking, blogs, an admin panel, and direct WhatsApp support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
